@@ -64,7 +64,7 @@ a {
     -webkit-background-clip: text;
     text-align: center;
     font-family: var(--fonte2);
-    font-size: 4.5em;
+    font-size: 4.4em;
     animation: gradientText 5s linear infinite;
 }
 
@@ -102,6 +102,23 @@ p {
     background-attachment: fixed;
 }
 
+#img3 {
+    background-color: black;
+    background-image: url(imagens/sistema-solar.jpg);
+    background-position: center;
+    background-size: 100%;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+}
+
+#img4 {
+    background-color: black;
+    background-image: url(imagens/praia.webp);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
 .box {
     display: inline-block;
     padding: 5px;
