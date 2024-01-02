@@ -64,7 +64,7 @@ a {
     -webkit-background-clip: text;
     text-align: center;
     font-family: var(--fonte2);
-    font-size: 12vw;
+    font-size: 4.5em;
     animation: gradientText 5s linear infinite;
 }
 
@@ -120,5 +120,5 @@ footer > .rodape {
     font-family: var(--fonte2);
     font-size: 1.3em;
     text-align: center;
-
+    padding: 5px;
 }
