@@ -81,8 +81,9 @@ p {
 
 #img2 {
     background-color: black;
-    background-image: url(imagens/download.jpg);
+    background-image: url(imagens/galaxy.webp);
     background-position: center;
+    background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
