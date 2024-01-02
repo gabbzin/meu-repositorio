@@ -51,7 +51,7 @@
     -webkit-background-clip: text;
     text-align: center;
     font-family: var(--fonte2);
-    font-size: 4.5em;
+    font-size: 12vw;
     animation: gradientText 5s linear infinite;
 }
 
@@ -67,13 +67,24 @@ p {
 }
 
 .imagem {
+    box-shadow: inset 10px 12px 12px rgba(0, 0, 0, 0.5);
+    padding: 55px;
+}
+
+#img1 {
     background-color: black;
     background-image: url(imagens/CHR_2314.jpg);
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
-    box-shadow: inset 10px 12px 12px rgba(0, 0, 0, 0.5);
-    padding: 55px;
+}
+
+#img2 {
+    background-color: black;
+    background-image: url(imagens/download.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 .box {
