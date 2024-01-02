@@ -45,13 +45,13 @@
     background-position: center;
 }
 
-.titulo-principal > .title {
+.title {
     background: linear-gradient(to right, rgb(255, 230, 0), orange, orangered);
     background-clip: text;
     -webkit-background-clip: text;
     text-align: center;
     font-family: var(--fonte2);
-    font-size: 10vw;
+    font-size: 4.5em;
     animation: gradientText 5s linear infinite;
 }
 
