@@ -95,7 +95,7 @@ p {
 
 #img2 {
     background-color: black;
-    background-image: url(imagens/galaxy.webp);
+    background-image: url(imagens/universo.webp);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -120,5 +120,5 @@ footer > .rodape {
     font-family: var(--fonte2);
     font-size: 1.3em;
     text-align: center;
-    
+
 }
