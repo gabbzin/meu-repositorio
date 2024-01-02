@@ -45,6 +45,19 @@
     background-position: center;
 }
 
+.link {
+    color: white;
+    font-family: var(--fonte2);
+    font-size: 1.3em;
+    text-align: center;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+
 .title {
     background: linear-gradient(to right, rgb(255, 230, 0), orange, orangered);
     background-clip: text;
