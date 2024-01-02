@@ -87,6 +87,7 @@ p {
 #img1 {
     background-color: black;
     background-image: url(imagens/CHR_2314.jpg);
+    background-position: center;
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
@@ -108,4 +109,16 @@ p {
     background-color: transparent;
     backdrop-filter: blur(8px);
     color: white;
+}
+
+footer {
+    background-color: black;
+    color: white;
+}
+
+footer > .rodape {
+    font-family: var(--fonte2);
+    font-size: 1.3em;
+    text-align: center;
+    
 }
